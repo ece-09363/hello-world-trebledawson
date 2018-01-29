@@ -8,4 +8,4 @@
 
 [selfie]: selfie.jpg
 
-2. Tell me something interesting about yourself
+2. I have a degree in music education and I am currently conducting research on music generation using reinforcement learning.
